@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Built-By: sgutierr
+Build-Jdk: 1.7.0_25
+Specification-Title: LoginReplacer
+Specification-Version: 0.0.1-SNAPSHOT
+Specification-Vendor: JBoss by Red Hat
+Implementation-Title: LoginReplacer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.jbpm.formModeler
+Implementation-Vendor: JBoss by Red Hat
+Build-Timestamp: 
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://www.jboss.org/drools/kie-parent-with-depend
+ encies/jbpm-form-modeler/jbpm-form-modeler-core/LoginReplacer
+Java-Vendor: Oracle Corporation
+Java-Version: 1.7.0_25
+Os-Arch: amd64
+Os-Name: Linux
+Os-Version: 3.17.2-200.fc20.x86_64
+Scm-Connection: scm:git:git@github.com:droolsjbpm/droolsjbpm-build-boo
+ tstrap.git/kie-parent-with-dependencies/jbpm-form-modeler/jbpm-form-m
+ odeler-core/LoginReplacer
+Scm-Revision: 
+Scm-Url: https://github.com/droolsjbpm/droolsjbpm-build-bootstrap/kie-
+ parent-with-dependencies/jbpm-form-modeler/jbpm-form-modeler-core/Log
+ inReplacer
+
